@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Asuna Yuuki",
+    "anime": "Sword Art Online",
+    "age": 17,
+    "birthday": "September 30",
+    "gender": "Female",
+    "description": "Asuna is a skilled swordswoman known for her speed and agility in the virtual world of Sword Art Online.",
+    "image": "https://example.com/images/asuna.jpg",
+    "traits": ["Kind", "Loyal", "Courageous"],
+    "first_appearance": {
+      "episode": 1,
+      "season": 1,
+      "year": 2012
+    },
+    "voice_actor": {
+      "japanese": "Haruka Tomatsu",
+      "english": "Cherami Leigh"
+    },
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "name": "Mikasa Ackerman",
+    "anime": "Attack on Titan",
+    "age": 19,
+    "birthday": "February 10",
+    "gender": "Female",
+    "description": "Mikasa is an exceptional soldier who is fiercely protective of Eren and one of humanity's strongest warriors.",
+    "image": "https://example.com/images/mikasa.jpg",
+    "traits": ["Strong", "Loyal", "Stoic"],
+    "first_appearance": {
+      "episode": 1,
+      "season": 1,
+      "year": 2013
+    },
+    "voice_actor": {
+      "japanese": "Yui Ishikawa",
+      "english": "Trina Nishimura"
+    },
+    "rating": 4.8
+  }
+]
